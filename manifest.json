@@ -3,7 +3,7 @@
     "version": "1.0",
     "description": "Build an Extension!",
     "permissions": [
-        "declarativeContent", "storage"
+        "activeTab", "declarativeContent", "storage"
     ],
     "background": {
         "scripts": [
